@@ -16,7 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="wisps_and_magic"
-run/main_scene="res://scenes/main/Main.tscn"
+run/main_scene="res://menus/main/MainMenu.tscn"
 
 [display]
 
